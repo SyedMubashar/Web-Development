@@ -1,0 +1,17 @@
+/* menu tag */
+.news {
+    background-color: bisque;
+    padding: 1em;
+    border: solid thin black;
+    width: fit-content;
+    height: fit-content;
+  
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin-bottom: 0;
+    gap: 1em;
+}
